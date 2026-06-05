@@ -1,6 +1,6 @@
 # Pol Vidal Miranda
 
-Machine learning engineer based in Amsterdam. I recently finished my MSc in Machine Learning and Cybersecurity at UPC (8.5/10) and I'm currently doing clinical ML research in collaboration with Amsterdam UMC, building and evaluating models that predict relapse in patients with alcohol use disorder, with a strong focus on honest evaluation and explainable AI (SHAP, LIME).
+Machine learning engineer based in Barcelona and currently living in Amsterdam. I recently finished my MSc in Machine Learning and Cybersecurity at UPC (8.5/10) and I'm currently doing clinical ML research in collaboration with Amsterdam UMC, building and evaluating models that predict relapse in patients with alcohol use disorder, with a strong focus on honest evaluation and explainable AI (SHAP, LIME).
 
 What I care about most in ML: models that hold up under careful evaluation, and results a non-technical person can understand and act on.
 

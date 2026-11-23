@@ -15,11 +15,17 @@ I'm detail-oriented by nature: I care about every step, from raw data to the fin
 ## Stack
 
 **ML & Deep Learning:** PyTorch · scikit-learn · LightGBM · XGBoost · TensorFlow/Keras · statsmodels
+
 **Computer Vision:** YOLOv8 · OpenCV · CNNs (ResNet)
+
 **NLP & LLMs:** Hugging Face Transformers · RAG · FAISS · Ollama
+
 **Explainability & Evaluation:** SHAP · LIME · Captum · Grad-CAM · conformal prediction
+
 **Data:** Python · pandas · NumPy · SQL · DuckDB · Parquet · MongoDB · Neo4j · Redis
+
 **MLOps & Tools:** Git · Docker · GitHub Actions · GitLab CI · Streamlit · Google Cloud
+
 **Embedded & IoT:** C · STM32 · ESP32 · MQTT
 
 ## Contact
